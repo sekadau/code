@@ -1,4 +1,4 @@
-﻿//** Featured Content Slider script- (c) Dynamic Drive DHTML code library: http://www.dynamicdrive.com.
+﻿//** Featured Content Slider script- (c) Dynamic Drive DHTML code library: http://www.sekadau.com.
 //** May 2nd, 08'- Script rewritten and updated to 2.0.
 //** June 12th, 08'- Script updated to v 2.3, which adds the following features:
 			//1) Changed behavior of script to actually collapse the previous content when the active one is shown, instead of just tucking it underneath the later.
