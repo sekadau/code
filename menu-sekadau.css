@@ -1,0 +1,16 @@
+﻿#sidebar1-taba h2{display:none;}
+#select-taba{margin:0 auto 10px}
+#select-taba,#select-taba li{padding:0;margin:0;list-style:none;overflow:hidden}
+#select-taba li{float:left;width:25%;text-align:center}
+#select-taba a{line-height:32px;display:block;background-color:#cf2f1e;color:white;font-weight:bold;text-decoration:none}
+#select-taba .selected a,#select-taba a:hover{background-color:#5e0a00}
+#sidebar1-main .widget2{background-color:#fff;width:100%;float:left;padding:5px 0}
+#sidebar1-main{overflow:hidden}
+
+#select-tabac{margin:0 auto 10px}
+#select-tabac,#select-tabac li{padding:0;margin:0;list-style:none;overflow:hidden}
+#select-tabac li{float:left;width:25%;text-align:center}
+#select-tabac a{line-height:32px;display:block;background-color:#000000;color:white;font-weight:bold;text-decoration:none}
+#select-tabac .selected a,#select-tabac a:hover{background-color:#ba0000}
+#sidebar1-main .widget2{background-color:#fff;width:100%;float:left;padding:5px 0}
+#sidebar1-main{overflow:hidden}
