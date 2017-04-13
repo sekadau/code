@@ -3,7 +3,7 @@
 <script type='text/javascript'>
 //<![CDATA[
 var disqus_shortname="heriyakop";
-var disqus_url = disqus_blogger_current_url;
+var disqus_url = http://disqus.com/by/heriyakop;
 
 (function () {
     "use strict";
