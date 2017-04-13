@@ -1,9 +1,6 @@
-<b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div id='fb-root'/>
-<script type='text/javascript'>
 //<![CDATA[
 var disqus_shortname="heriyakop";
-var disqus_url = http://disqus.com/by/heriyakop;
+var disqus_url = disqus_blogger_current_url;
 
 (function () {
     "use strict";
@@ -57,5 +54,3 @@ $(".commentbtn").click(function (e) {
 $(this).addClass("btncurrent").siblings().removeClass("btncurrent");
 });
 //]]>
-</script>
-</b:if>
